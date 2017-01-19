@@ -1,0 +1,11 @@
+URL:
+http://imgur.com/Nt0mjo0
+==============================
+TITLE:
+My First Bot: A Sudoku Solver!
+==============================
+Comment:
+This is my first Reddit bot, a project that I started so that I can learn Python. It still need polishing (and features in the future will be considered), but as of now, it reads in a string containing 81 digits (0 for blanks, 1 to 9 for the numbers in the puzzle). If the puzzle is indeed solvable, MrSudokuBot will reply to the comment with a solution.
+
+MrSudokuBot is currently rate-limited, and is run on my PC (whenever it's on), so it's performance will be spotty at best. Regardless, any criticisms are appreciated!
+
